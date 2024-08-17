@@ -8,7 +8,7 @@ This repository contains detailed documentation for the Azure project completed 
 ### Key Project Highlights
 - Regions: The project utilized Azure resources across Australia East and UK South.
 - Cost Efficiency: The total project cost was maintained under $20 over a 5-day period, demonstrating effective cost management.
-- Duration: The project was completed within a strict timeline of 5 days.
+- Duration: The project was completed within a strict timeline of 10 days.
 
 ## Project Components
 
