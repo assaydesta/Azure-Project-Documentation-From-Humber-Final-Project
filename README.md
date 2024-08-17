@@ -57,7 +57,7 @@ This repository contains detailed documentation for the Azure project completed 
 ## Documentation
 The full documentation for the Azure project, including architecture diagrams, implementation steps, and detailed screenshots, is available in the PDF file below:
 
-- [Download Azure Project Documentation PDF](./Assay - Azure Final Project.pdf)
+- [Download Azure Project Documentation PDF](https://github.com/assaymie/Azure-Project-Documentation-From-Humber-Final-Project/blob/main/Assay%20-%20Azure%20Final%20Project.pdf)
 
 ## Additional Information
 For more information or inquiries about the project, please reach out to me via GitHub or LinkedIn.
